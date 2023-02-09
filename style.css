@@ -1,0 +1,42 @@
+#header
+#header_management_buttons > div > button.btn.btn-outline-dark.mngmt-button-edit_codes,
+#header_management_buttons > div > button.btn.btn-outline-dark.mngmt-button-edit_container,
+#complex_header > div > div.com-status__left > div.com-status__footer > div.com-status__btn-meta
+{
+	display:none;
+}
+
+.nn-style .milestone__logo
+{
+	display:none;
+}
+
+.nn-style .nn-size-48 {
+    width: 24px;
+    height: 24px;
+    font-size: 14px;
+    line-height: 14px;
+}
+
+.nn-style .milestones {
+    min-height: 10px;
+    height: 25px !important;
+}
+
+.nn-style .milestone__text {
+	font-size: 18px;
+	line-height: 24px;
+}
+
+.nn-style .service {
+    height: 35px;
+}
+
+.crt-v1-icon-add48 {
+	width: 24px;
+    height: 24px;
+}
+
+.nn-style .service-button__main-logo {
+    height: 25px;
+}
